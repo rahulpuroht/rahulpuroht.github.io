@@ -6,7 +6,7 @@ description: Rahul Purohit | Portfolio
 
 # User settings
 username: Rahul Purohit
-user_description: I've missed more than 9000 shots in my career. I've lost almost 365 games. 52 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.(Problem solving with Data Structure and Algorithm , Design Patterns and Software Design, Artificial Intelligence and compiler design)
+user_description: I've missed more than 9000 shots in my career. I've lost almost 365 games. 52 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.(Problem solving with Data Structure and Algorithm , Design Patterns and Software Design, Artificial Intelligence, Dapps & Blockchain based application)
 user_title: Software Developer
 email: rahulpuroht@gmail.com
 twitter_username: rahul_msp
@@ -15,6 +15,6 @@ gplus_username:  rahulpuroht
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-124945877-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
